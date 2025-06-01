@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/book-search-helper/static/js/main.cddb4707.js",
+    "index.html": "/book-search-helper/index.html",
+    "main.cddb4707.js.map": "/book-search-helper/static/js/main.cddb4707.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cddb4707.js"
+  ]
+}
